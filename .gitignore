@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Database
+db.sqlite3
+
+# IDE files
+.idea/
+
+# Environment
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
